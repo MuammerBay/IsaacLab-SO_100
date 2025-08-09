@@ -70,6 +70,11 @@ This ensures that your policy performs as expected in Isaac Lab before attemptin
 
 _Work in progress._
 
+## 🤝 Contributing
+
+We welcome contributions of all kinds!  
+Please read our [Contributing Guide](CONTRIBUTING.md) to learn how to set up your environment, follow our coding style, and submit pull requests.
+
 ## 📄 License
 
 This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
